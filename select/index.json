@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "迷宮SUMMER",
+  "base_artist": "WEST.",
+  "createdAt": "2026-02-09T19:30:31.382342Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "迷宮SUMMER",
+      "artist": "ジャニーズWEST",
+      "has_synced": false,
+      "path": "select/pl_01_迷宮SUMMER_ジャニーズWEST.txt"
+    }
+  ]
+}
